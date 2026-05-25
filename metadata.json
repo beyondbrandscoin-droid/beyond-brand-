@@ -1,0 +1,8 @@
+{
+  "name": "Cinematic Motion Studio",
+  "description": "A futuristic cinematic portfolio landing page inspired by high-end creative studio websites with ultra-smooth motion design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
